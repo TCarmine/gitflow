@@ -1,4 +1,4 @@
-#**License**
+# **License**
 
 Portions of this software are licensed as follows:
 
@@ -9,10 +9,10 @@ Content outside of the above mentioned files or restrictions is available under 
 Sustainable Use License
 Version 1.0
 
-##**Acceptance**
+## **Acceptance**
 By using the software, you agree to all of the terms and conditions below.
 
-Copyright License
+## **Copyright License**
 The licensor grants you a non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable license to use, copy, distribute, make available, and prepare derivative works of the software, in each case subject to the limitations below.
 
 Limitations
