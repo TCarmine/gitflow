@@ -1,4 +1,4 @@
-License
+#**License**
 
 Portions of this software are licensed as follows:
 
@@ -9,7 +9,7 @@ Content outside of the above mentioned files or restrictions is available under 
 Sustainable Use License
 Version 1.0
 
-Acceptance
+##**Acceptance**
 By using the software, you agree to all of the terms and conditions below.
 
 Copyright License
