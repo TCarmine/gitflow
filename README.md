@@ -1,3 +1,13 @@
+## Attribution
+
+This fork is based on [vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) — a project originally created and maintained by [mhutchie](https://github.com/mhutchie).
+
+All original code remains under the MIT License.  
+All new contributions are licensed under the Sustainable Use License.
+
+**Note**: The commit history includes contributions from the original project. This is intentional — we respect and credit the original authors.
+
+
 # Git Graph extension for Visual Studio Code
 
 View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
